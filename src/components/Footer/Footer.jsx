@@ -140,7 +140,7 @@ function Footer() {
         style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}
       >
         © 2023 Copyright:
-        <a className="text-reset fw-bold" href="https://mdbootstrap.com/">
+        <a className="text-reset fw-bold" href="#header">
           SEALLY
         </a>
       </div>

@@ -39,7 +39,7 @@ function App() {
   }
 
   return (
-    <Navbar sticky="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar sticky="top" collapseOnSelect expand="lg" bg="dark" variant="dark" id="nav">
       <Container>
         <Navbar.Brand href="#home">SEALLY</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

@@ -30,6 +30,7 @@ function Newsletter() {
   return (
     <div
       className="p-5 text-center bg-image bg-primary "
+      id='header'
       style={{ backgroundImage: `url(${background})`, height: 600 }}
     >
       <div className="mask" style={{ backgroundColor: "rgba(0, 0, 0, 0.3)" }}>
