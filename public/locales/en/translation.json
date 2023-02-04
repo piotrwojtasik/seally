@@ -1,0 +1,85 @@
+{
+
+    "nav1":"About",
+    "nav2":"Contact",
+    "nav3":"More",
+    "nav4":"Why Choose Us?",
+    "nav5":"Our Team",
+    "nav6":"Our Product Categories",
+
+    
+"welcome": "Wlecome to SEALLY",
+"welcome2": "your trusted ship chandler.",
+"welcome3":"PRODUCTS",
+"welcome4":"CONTACT",
+"info1": "Note info:",
+"info2": " For accurate and efficient communication, please direct all inquiries and information through our contact page. Our team will respond promptly to ensure a smooth and seamless experience.",
+"about1": "About Us",
+"about2": "At SEALLY, we are passionate about the maritime industry and its importance in our family's history. Our team consists of experts with extensive knowledge and competencies in ship chandling, allowing us to handle any challenge with ease. We are also dedicated to quality control and strive for the highest level of customer satisfaction.",
+"about3": "SEALLY is part of a larger, innovative startup DYLLI, co-created at the University of Maritime in Gdynia. This allows us to tap into a wealth of resources and expertise from leading institutions. We are proud to continue the legacy of our maritime heritage and serve the shipping industry with the same level of commitment and quality that generations before us have embodied.",
+"choose1": "Why Choose Us?",
+"choose2": "Efficiency",
+"choose3": "Refers to our quick response time and continuous communication.",
+"choose4": "Quality",
+"choose5": "Highlights our attention to detail and high delivery standards.",
+"choose6": "Customization",
+"choose7": "Emphasizes our ability to provide tailored solutions that meet your specific needs.",
+"choose8": "ChECK IT OUT",
+"choose9": "CHECK IT OUT",
+"choose10": "CHECK IT OUT",
+"advance1": "Quick response time",
+"advance2": "At SEALLY, we understand the importance of timely responses in the maritime industry. Our dedicated team will quickly respond to your inquiries and needs to ensure a seamless process.",
+"advance3": "Continuous communication",
+"advance4": "Open and consistent communication is key to our success. We will keep you informed every step of the way and work with you to meet all your requirements.",
+"advance5": "Expert knowledge ",
+"advance6": "Our team is comprised of experts in ship chandling, bringing a wealth of knowledge and experience to every project we undertake.",
+"advance7": "Attention to detail",
+"advance8": "We take pride in our attention to detail and strive for excellence in every aspect of our work. From sourcing the right supplies to delivering on time, we never cut corners.",
+"advance9": "High delivery standards",
+"advance10": "We hold ourselves to the highest standards of delivery, ensuring that your supplies are delivered on time and to the highest quality.",
+"advance11": "Tailored solutions",
+"advance12": "Every ship and its needs are unique. We work closely with you to understand your specific requirements and provide tailored solutions to meet your individual needs.",
+
+
+"team": "Our Team",
+"name": "Name",
+"title": "Title",
+"active":"Active",
+
+
+"products1": "Our Product Categories",
+"products2": "Technical Supplies",
+"products3": "Our technical supplies include everything your ship needs to function properly.",
+"products4": "Safety Equipment",
+"products5": "Our safety equipment is of the highest quality to ensure your crew stays protected at all times.",
+"products6": "Chemicals",
+"products7": "We provide a wide range of chemicals to meet all your ship's cleaning and maintenance needs.",
+
+"products_update": "Last updated 3 mins ago",
+
+"contact1": "Contact Us",
+"contact2":"Email Adress",
+"contact3": "Your email",
+"contact4": "Message",
+"contact5": "SEND",
+
+
+"footer1": "Get connected with us on social networks:",
+"footer2": "If you have any further questions or concerns that you couldn't find the answer to, please don't hesitate to reach out to us through the 'Contact Us' section. Our dedicated team is always here to assist you. We value your feedback and strive to provide the best service possible.",
+"footer3": "PRODUCTS",
+"footer4": "USEFUL LINKS",
+"footer5": "CONTACT",
+"footer6": "Technical Supplies",
+"footer7": "Safety Equipment",
+"footer8": "Chemicals",
+"footer9": "Whatever you wish",
+"footer10": "Offer",
+"footer11": "Team",
+"footer12": "About Us",
+"footer13": "Advance",
+"footer14": "",
+"footer15": "",
+"footer16": ""
+
+
+}

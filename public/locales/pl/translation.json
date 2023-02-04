@@ -1,0 +1,85 @@
+{
+    "nav1":"O Nas",
+    "nav2":"Kontakt",
+    "nav3":"Więcej",
+    "nav4":"Dlaczego  My?",
+    "nav5":"Nasz Zespół",
+    "nav6":"Nasza Oferta",
+
+
+
+    "welcome": "Witamy w SEALLY",
+    "welcome2": "twój zaufany ship chandler!",
+    "welcome3":"PRODUKTY",
+    "welcome4":"KONTAKT",
+    "info1": "Ważna Informacja:",
+    "info2": " Aby zapewnić dokładną i sprawną komunikację, prosimy o kierowanie wszystkich zapytań i informacji za pośrednictwem naszego formularza kontaktowego. Nasz zespół odpowie niezwłocznie, aby zapewnić płynne i bezproblemowe doświadczenie.",
+    "about1": "O Nas",
+    "about2": "W SEALLY jesteśmy pasjonatami przemysłu morskiego i jego znaczenia w historii naszej rodziny. Nasz zespół składa się z ekspertów posiadających szeroką wiedzę i kompetencje w zakresie obsługi statków, co pozwala nam z łatwością poradzić sobie z każdym wyzwaniem. Jesteśmy również oddani idei kontroli jakości w każdym możliwym procesie i dążymy do osiągnięcia najwyższego poziomu satysfakcji klienta.",
+    "about3": "SEALLY jest częścią większego, innowacyjnego startupu DYLLI, współtworzonego na Uniwersytecie Morskim w Gdyni. Dzięki temu możemy korzystać z bogatych zasobów i wiedzy eksperckiej z wiodących instytucji. Jesteśmy dumni, że możemy kontynuować tradycję i służyć branży morskiej z tym samym poziomem zaangażowania i jakości, który uosabiały pokolenia przed nami.",
+    "choose1": "Dlaczego My?",
+    "choose2": "Wydajność",
+    "choose3": "Odnosi się do naszego szybkiego czasu reakcji i ciągłej komunikacji z klientem.",
+    "choose4": "Jakość",
+    "choose5": "Podkreśla naszą dbałość o szczegóły i wysokie standardy dostaw.",
+    "choose6": "Dostosowanie",
+    "choose7": "Podkreśla naszą zdolność do dostarczania rozwiązań dostosowanych do konkretnych potrzeb.",
+    "choose8": "SPRAWDŹ",
+    "choose9": "SPRAWDŹ",
+    "choose10": "SPRAWDŹ",
+    "advance1": "Szybki czas reakcji",
+    "advance2": "W SEALLY rozumiemy znaczenie terminowych dostaw w przemyśle morskim. Nasz zespół szybko odpowie na Twoje zapytania i potrzeby, aby zapewnić bezproblemowy proces zakupowy.",
+    "advance3": "Ciągła komunikacja",
+    "advance4": "Otwarta i spójna komunikacja jest kluczem do naszego sukcesu. Będziemy Cię informować na każdym kroku i współpracować z Tobą, aby spełnić wszystkie Twoje wymagania.",
+    "advance5": "Wiedza specjalistyczna",
+    "advance6": "Nasz zespół składa się z ekspertów w dziedzinie przeładunku statków, wnosząc do każdego projektu bogactwo wiedzy i doświadczenia.",
+    "advance7": "Dbałość o szczegóły",
+    "advance8": "Jesteśmy dumni z naszej dbałości o szczegóły i dążymy do doskonałości w każdym aspekcie naszej pracy. Od zaopatrzenia w odpowiednie materiały do dostarczenia na czas, nigdy nie idziemy na skróty.",
+    "advance9": "Wysokie standardy dostaw",
+    "advance10": "Trzymamy się najwyższych standardów dostaw, zapewniając, że Twoje dostawy są dostarczane na czas i w najwyższej jakości.",
+    "advance11": "Rozwiązania dopasowane do potrzeb",
+    "advance12": "Każdy statek i jego potrzeby są wyjątkowe. Ściśle współpracujemy z Tobą, aby zrozumieć Twoje specyficzne wymagania i zapewnić rozwiązania dostosowane do Twoich indywidualnych potrzeb.",
+    
+    
+    "team": "Nasz Zespół",
+    "name": "Imię i Nazwisko",
+    "title": "Tytuł",
+    "active":"Aktywny",
+    
+    
+    "products1": "Nasza Oferta",
+    "products2": "Materiały Techniczne",
+    "products3": "Nasze zaopatrzenie techniczne obejmuje wszystko, czego Twój statek potrzebuje do prawidłowego funkcjonowania.",
+    "products4": "Wyposażenie Bezpieczeństwa",
+    "products5": "Nasze wyposażenie ochronne jest najwyższej jakości, aby zapewnić Twojej załodze codzienną ochronę.",
+    "products6": "Środki Chemiczne",
+    "products7": "Zapewniamy szeroki zakres środków chemicznych, aby spełnić wszystkie potrzeby związane z czyszczeniem i konserwacją statku.",
+    
+    "products_update": "Ostatnia akutalizacja dzień temu",
+    
+    "contact1": "Kontakt",
+    "contact2":"Adres Email",
+    "contact3": "Twój Email",
+    "contact4": "Wiadomość",
+    "contact5": "WYŚLIJ",
+    
+    
+    "footer1": "Połącz się z nami na portalach społecznościowych:",
+    "footer2": "Jeśli masz jakiekolwiek dodatkowe pytania lub wątpliwości, na które nie znalazłeś odpowiedzi, nie wahaj się skontaktować z nami poprzez sekcję Kontakt. Nasz oddany zespół jest zawsze do Twojej dyspozycji. Cenimy Twoje opinie i staramy się zapewnić najlepszą możliwą obsługę.",
+    "footer3": "OFERTA",
+    "footer4": "PRZYDATNE LINKI",
+    "footer5": "KONTAKT",
+    "footer6": "Materiały Techniczne",
+    "footer7": "Wyposażenie Bezpieczeństwa",
+    "footer8": "Środki Chemiczne",
+    "footer9": "Wszystko czego potrzebujesz",
+    "footer10": "Oferta",
+    "footer11": "Zespół",
+    "footer12": "O Nas",
+    "footer13": "Nasza Przewaga",
+    "footer14": "",
+    "footer15": "",
+    "footer16": ""
+    
+    
+    }
