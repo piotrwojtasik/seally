@@ -79,7 +79,59 @@
     "footer13": "Nasza Przewaga",
     "footer14": "",
     "footer15": "",
-    "footer16": ""
+    "footer16": "",
+
+    
+"list1": {
+    "1": "Wszelkiego rodzaju narzędzia elektryczne, mechaniczne i pneumatyczne",
+    "2": "Materiały ze stali, miedzi i mosiądzu",
+    "3": "Zawory, rury i tym podobne",
+    "4": "Uszczelnienia, połączenia i łożyska",
+    "5": "Śruby, nakrętki i wkręty",
+    "6": "Oleje i smary",
+    "7": "Farby i akcesoria malarskie",
+    "8": "Materiały olejoodporne",
+    "9": "Materiały odporne na wysokie temperatury",
+    "10": "Materiały elektryczne i izolacyjne",
+    "11": "Kable, żarówki, bezpieczniki i tym podobne",
+    "12": "Fitingi pokładowe i akcesoria",
+    "13": "Nawet jeżeli czegoś nie wymieniliśmy i tak to załatwimy!"
+    
+},
+
+"list2": {
+    "1": "Odzież ochronna",
+    "2": "Obuwie robocze i pozostałe akcesoria",
+    "3": "Wyposażenie przeciwpożarowe",
+    "4": "Kamizelki i koła ratunkowe",
+    "5": "Detektory gazu i czujniki dymu",
+    "6": "Aparaty oddechowe",
+    "7": "Transpondery poszukiwawczo-ratowinicze",
+    "8": "Izolacja termiczna",
+    "9": "Akcesoria do udzielania pierwszej pomocy",
+    "10": "Światła bezpieczeństwa / lampy sygnalizacyjne",
+    "11": "Narzędzia strażackie",
+    "12": "Lokalizatory personalne",
+    "13": "Skontaktuj się z nami po więcej informacji!"
+    
+},
+
+"list3": {
+    "1": "Wszelkiego rodzaju środki czyszczące",
+    "2": "Środki do czyszczenia węgla",
+    "3": "Oczyszczacze chłodnic powietrza",
+    "4": "Oczyszczacze silników elektrycznych",
+    "5": "Środki do czyszczenia olejów i smarów",
+    "6": "Środki do czyszczenia zbiorników",
+    "7": "Odtłuszczacze",
+    "8": "Odkamieniacze",
+    "9": "Środki odkażające i odorujące do zbiorników ładunkowych i pomieszczeń mieszkalnych",
+    "10": "Konwertery rdzy i środki do jej usuwania",
+    "11": "Pochłaniacze i zestawy do pochłaniania rozlewów olejowych",
+    "12": "Produkty do toalet",
+    "13": "To zaledwie część tego co możemy ci zaoferować!"
+    
+}
     
     
     }

@@ -34,18 +34,71 @@ function Cards() {
               <MDBCardTitle>{t("products2")}</MDBCardTitle>
               <MDBCardText>
               {t("products3")}
+              <hr />
                 <ul className="list-unstyled text-start mt-3">
-                  <li className="mb-1">
+                <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Hundreds of additional quality components
+                    {t("list1.1")}
                   </li>
+                  <hr />
                   <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Much better design
+                    {t("list1.2")}
                   </li>
+                  <hr />
                   <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Integration with TypeScript
+                    {t("list1.3")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.4")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.5")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.6")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.7")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.8")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.9")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.10")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.11")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.12")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list1.13")}
                   </li>
                 </ul>
               </MDBCardText>
@@ -64,18 +117,71 @@ function Cards() {
               <MDBCardTitle>{t("products4")}</MDBCardTitle>
               <MDBCardText>
               {t("products5")}
+              <hr />
                 <ul className="list-unstyled text-start mt-3">
-                  <li className="mb-1">
+                <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Hundreds of additional quality components
+                    {t("list2.1")}
                   </li>
+                  <hr />
                   <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Much better design
+                    {t("list2.2")}
                   </li>
+                  <hr />
                   <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Integration with TypeScript
+                    {t("list2.3")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.4")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.5")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.6")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.7")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.8")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.9")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.10")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.11")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.12")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list2.13")}
                   </li>
                 </ul>
               </MDBCardText>
@@ -94,18 +200,71 @@ function Cards() {
               <MDBCardTitle>{t("products6")}</MDBCardTitle>
               <MDBCardText>
               {t("products7")}
+              <hr />
                 <ul className="list-unstyled text-start mt-3">
+                <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.1")}
+                  </li>
+                  <hr />
                   <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Hundreds of additional quality components
+                    {t("list3.2")}
                   </li>
-                  <li className="mb-1 start-0">
-                    <i className="fas fa-check-circle me-2 text-success"></i>
-                    Much better design
-                  </li>
+                  <hr />
                   <li className="mb-1">
                     <i className="fas fa-check-circle me-2 text-success"></i>
-                    Integration with TypeScript
+                    {t("list3.3")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.4")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.5")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.6")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.7")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.8")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.9")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.10")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.11")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.12")}
+                  </li>
+                  <hr />
+                  <li className="mb-1">
+                    <i className="fas fa-check-circle me-2 text-success"></i>
+                    {t("list3.13")}
                   </li>
                 </ul>
               </MDBCardText>
