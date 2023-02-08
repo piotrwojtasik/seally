@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/seally/static/css/main.f72d7d41.css",
-    "main.js": "/seally/static/js/main.6406908a.js",
+    "main.js": "/seally/static/js/main.ee73f34a.js",
     "static/media/background.jpg": "/seally/static/media/background.ae3130fc4635e6d79384.jpg",
     "static/media/fa-solid-900.ttf": "/seally/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/seally/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -22,10 +22,10 @@
     "index.html": "/seally/index.html",
     "static/media/getFetch.cjs": "/seally/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.f72d7d41.css.map": "/seally/static/css/main.f72d7d41.css.map",
-    "main.6406908a.js.map": "/seally/static/js/main.6406908a.js.map"
+    "main.ee73f34a.js.map": "/seally/static/js/main.ee73f34a.js.map"
   },
   "entrypoints": [
     "static/css/main.f72d7d41.css",
-    "static/js/main.6406908a.js"
+    "static/js/main.ee73f34a.js"
   ]
 }
