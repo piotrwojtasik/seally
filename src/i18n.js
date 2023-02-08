@@ -13,6 +13,9 @@ i18n
   .use(HTTPApi)
   .init({
     fallbackLng: 'en',
+    backend: {
+      loadPath: 'https://piotrwojtasik.github.io/seally/locales/{{lng}}/{{ns}}.json'
+    },
     interpolation: {
       escapeValue: false, 
     }
