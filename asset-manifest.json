@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/seally/static/css/main.f72d7d41.css",
+    "main.js": "/seally/static/js/main.6406908a.js",
+    "static/media/background.jpg": "/seally/static/media/background.ae3130fc4635e6d79384.jpg",
+    "static/media/fa-solid-900.ttf": "/seally/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/seally/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/seally/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/seally/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/werka.jpg": "/seally/static/media/werka.f7b5212c3fc64c03ab63.jpg",
+    "static/media/fa-regular-400.ttf": "/seally/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/piter.jpg": "/seally/static/media/piter.70fd5e068f101467ff97.jpg",
+    "static/media/fa-regular-400.woff2": "/seally/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/ship.svg": "/seally/static/media/ship.e02698d42a21bebd56a499cb1e1aed33.svg",
+    "static/media/delivery.svg": "/seally/static/media/delivery.d6b96300bcc10c780084b5ac5a2bcf78.svg",
+    "static/media/chemicals.svg": "/seally/static/media/chemicals.fc80056fb81db2f58989bf790f6e6914.svg",
+    "static/media/fa-v4compatibility.ttf": "/seally/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/electric.svg": "/seally/static/media/electric.9401e07731be157575d16c0cfed67680.svg",
+    "static/media/delivery2.svg": "/seally/static/media/delivery2.bb969fd89e0880c3ceffaf32f2e46f0c.svg",
+    "static/media/safe.svg": "/seally/static/media/safe.7dcb386615b1a3e2de9001eeea397f49.svg",
+    "static/media/fa-v4compatibility.woff2": "/seally/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/seally/index.html",
+    "static/media/getFetch.cjs": "/seally/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.f72d7d41.css.map": "/seally/static/css/main.f72d7d41.css.map",
+    "main.6406908a.js.map": "/seally/static/js/main.6406908a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f72d7d41.css",
+    "static/js/main.6406908a.js"
+  ]
+}
